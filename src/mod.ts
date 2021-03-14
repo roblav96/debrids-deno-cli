@@ -1,4 +1,4 @@
-#!/usr/bin/env -S deno run
+#!/usr/bin/env -S deno run --unstable --allow-all
 
 import * as cliffy from 'https://deno.land/x/cliffy/command/mod.ts'
 import * as Fae from 'https://deno.land/x/fae/mod.ts'
